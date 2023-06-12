@@ -1,4 +1,5 @@
 .head{
+  
     text-decoration: none;
     color:black;
     float:left; 
@@ -10,7 +11,9 @@
     font-family:'ubantu';
   
     height: 100px;
-  
+.Navbar{
+  display: flex;
+}
 } 
 .head:hover
  {
@@ -38,7 +41,7 @@
 
   .Photo{
     width: 500x;
-    height: 500px;
+    height: 560px;
     border: 2px solid black;
     text-align: center;
     
